@@ -11,7 +11,7 @@ An automated smart thermostat built using an STM32F103 microcontroller and STM32
 ## System Architecture & Simulation
 The complete circuit design and firmware execution were simulated and validated using the Proteus Design Suite. 
 
-![Proteus Simulation View](your-screenshot-name.png)
+![Proteus Simulation View](Smart Thermostat.png)
 
 ## Tech Stack & Peripherals
 - **Language:** Embedded C
